@@ -14,6 +14,10 @@ Webscraping is often a convenient way to grab data that exist on the web. Howeve
 
 3. Finally we will look at the Newspaper module. This module takes a lot of the pain out of webscraping news sites because it doesn't require you to have any knowledge of the html structure and will generally be the best approach for scraping news articles. However, if there are sites where the Newspaper module doesn't work as expected you will have to revert to the more traditional method.
 
+## Copyright
+
+This repository has a [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
+
 ## How to use this repository
 
 Inside this repository you are going to find an introduction to webscraping and a series of Jupyter Notebooks that will allow learning how to perform web scrapping on a range of different online materials.
