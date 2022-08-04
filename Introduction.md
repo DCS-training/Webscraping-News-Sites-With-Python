@@ -22,7 +22,7 @@
 - Some sites deny access to scrapers
 
 # Websites and HTML
-[!image](https://www.e-education.psu.edu/geog863/sites/www.e-education.psu.edu.geog863/files/image/headings.jpg)
+![image](https://www.e-education.psu.edu/geog863/sites/www.e-education.psu.edu.geog863/files/image/headings.jpg)
 
 # Tools that we will use 
 
