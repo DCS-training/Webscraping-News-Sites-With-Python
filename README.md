@@ -37,21 +37,8 @@ Make sure you know the location they have been downloaded to (usually your 'Down
 1.  From the Noteable home page, click on the 'Upload' button at the top right of the screen and browse to one of the files you saved earlier to select it.
 2.  Now click the blue 'Upload' button to load it into Noteable
 3.  Once the file has been uploaded, click on the filename to start the Notebook
+
 NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
-#### Using the Notebook
-The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:
-
-1.  Place your cursor within the cell
-2.  Click the 'Run' button on the top menu
-4.  The results of running this code will appear below
-5.  if the results don't appear immediately, check the icon in the browser tab. AN eggtimer icon indicates it is processing the code.
-6.  It is best to follow the Notebook from top to bottom as some code blocks will depend on results from previous cells
-7.  You can edit code blocks yourself and run them to see the results of your changes
-#### Clearing the cells
-To clear the results and run the code again you can use the 'Cell' menu on the top menu bar
-
-1.  To clear the results of the current cell:  **Cell > Current Outputs > Clear**
-2.  To clear the results of all cells:  **Cell > All Output > Clear**
 
 ### 2. Installing Python via Anaconda
 
@@ -83,20 +70,8 @@ To start Jupyter Notebook Open the Anaconda Navigator and Launch Jupyter Noteboo
 3. Navigate to where you have download your file
 4. Select Upload again
 5. Double click on the uploaded file 
-#### Using the Notebook
-The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:
 
-1.  Place your cursor within the cell
-2.  Click the 'Run' button on the top menu
-4.  The results of running this code will appear below
-5.  if the results don't appear immediately, check the icon in the browser tab. AN eggtimer icon indicates it is processing the code.
-6.  It is best to follow the Notebook from top to bottom as some code blocks will depend on results from previous cells
-7.  You can edit code blocks yourself and run them to see the results of your changes
-#### Clearing the cells
-To clear the results and run the code again you can use the 'Cell' menu on the top menu bar
-
-1.  To clear the results of the current cell:  **Cell > Current Outputs > Clear**
-2.  To clear the results of all cells:  **Cell > All Output > Clear**
+NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
 
 [anaconda]: https://www.anaconda.com/distribution
 [anaconda-dl]: https://www.anaconda.com/download/
@@ -112,8 +87,10 @@ Open Google Colab: [https://colab.research.google.com](https://colab.research.go
 If you are not already logged you will be prompted to log-in via gmail
 #### Upload the Notebook to Noteable
 1. Go on the GitHub header and copy paste the link to the notebook you want to use and press enter
+
 NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
-#### Using the Notebook
+
+### Using the Notebook
 The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:
 
 1.  Place your cursor within the cell
@@ -122,7 +99,7 @@ The Notebook contains paragraphs of explanatory text interspersed with grey cell
 5.  if the results don't appear immediately, check the icon in the browser tab. AN eggtimer icon indicates it is processing the code.
 6.  It is best to follow the Notebook from top to bottom as some code blocks will depend on results from previous cells
 7.  You can edit code blocks yourself and run them to see the results of your changes
-#### Clearing the cells
+### Clearing the cells
 To clear the results and run the code again you can use the 'Cell' menu on the top menu bar
 
 1.  To clear the results of the current cell:  **Cell > Current Outputs > Clear**
