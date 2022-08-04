@@ -1,6 +1,6 @@
 # Webscraping Newsites With Python 
 
-This is a tutorial on the use of Python for web scraping (a technique to automatically access and extract large amounts of information from a website), which was developed for CDCS by [Edina](https://edina.ac.uk/).
+This is a tutorial on the use of Python for web scraping (a technique to automatically access and extract large amounts of information from a website), which was developed for CDCS by **Dave Elsmore** ([Edina](https://edina.ac.uk/)).
 
 There is more information on the Internet than any individual can absorb in a lifetime. What is needed is not merely access to that information, but a scalable way to collect, organize, and analyse it.
 
