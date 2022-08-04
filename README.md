@@ -16,7 +16,7 @@ Webscraping is often a convenient way to grab data that exist on the web. Howeve
 
 ## How to use this repository
 
-Inside this repository you are going to find an introduction to webscraping and a series of Jupyter Notebooks that will allow learning how to perdorm web scrapping on a range of different online materials.
+Inside this repository you are going to find an introduction to webscraping and a series of Jupyter Notebooks that will allow learning how to perform web scrapping on a range of different online materials.
 
 ## How to use the Jupyter Notebooks
 
