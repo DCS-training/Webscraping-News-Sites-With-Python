@@ -90,7 +90,7 @@ If you are not already logged you will be prompted to log-in via gmail
 
 NOTE: The notebooks are numbered sequentially 1-4 and the intention is that you work on them in that order, completing the first before moving on to the next.
 
-### Using the Notebook
+### 4. Using the Notebook
 The Notebook contains paragraphs of explanatory text interspersed with grey cells containg code blocks. To run a code block and see the result:
 
 1.  Place your cursor within the cell
@@ -99,7 +99,7 @@ The Notebook contains paragraphs of explanatory text interspersed with grey cell
 5.  if the results don't appear immediately, check the icon in the browser tab. AN eggtimer icon indicates it is processing the code.
 6.  It is best to follow the Notebook from top to bottom as some code blocks will depend on results from previous cells
 7.  You can edit code blocks yourself and run them to see the results of your changes
-### Clearing the cells
+### 5. Clearing the cells
 To clear the results and run the code again you can use the 'Cell' menu on the top menu bar
 
 1.  To clear the results of the current cell:  **Cell > Current Outputs > Clear**
